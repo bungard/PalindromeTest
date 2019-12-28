@@ -1,0 +1,23 @@
+{
+	"strings": [{
+			"str": "mom",
+			"result": "true"
+		},
+		{
+			"str": "Taco Cat",
+			"result": "true"
+		},
+		{
+			"str": "Kent State",
+			"result": "false"
+		},
+		{
+			"str": "Amore, Roma.",
+			"result": "true"
+		},
+		{
+			"str": "King are you glad you are king",
+			"result": "false"
+		}
+	]
+}
