@@ -27,3 +27,5 @@ The JSON file will contain the string to test, and its status as a palindrome. T
     }
 ```
 Your solution is expected to handle reasonable exceptions (unanavailable JSON file, improperly formatted file, etc). In the case of an exception, simply outputting the exception message, or comparable message,  will expected.
+
+While our team focuses primarily in C#/.NET technologies, for this submission feel free to use a language of your choosing. 
