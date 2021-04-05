@@ -1,7 +1,7 @@
 # PalindromeTest
 For your submission, you are asked to implement a solution which will perform three primary functions:
 
-1. Retrieve a JSON file from a remote URL. Your solutions should pull this from a settings file (app.config, web.config. etc). 
+1. Retrieve a JSON file from a remote URL. Your solution should pull this URL from a settings file (app.config, web.config. etc). 
 A sample file has been provided here: https://github.com/bungard/PalindromeTest/blob/master/string.json
 
 2. Determine if a provided string is a palindrome. Alphanumeric chars will be considered when evaluating whether or not the string is a palindrome.
